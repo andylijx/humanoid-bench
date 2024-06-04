@@ -20,6 +20,12 @@ Structure of the repository:
 
 ## Installation
 ```
+# Initialization
+git clone https://github.com/carlosferrazza/humanoid-bench.git
+cd humanoid-bench
+conda create -n humanoid_bench python=3.8
+conda activate humanoid_bench
+
 # Install humanoid benchmark
 pip install -e .
 
