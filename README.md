@@ -20,7 +20,7 @@ Structure of the repository:
 
 ## Installation
 ```
-# Initialization
+# Initialize env
 git clone https://github.com/carlosferrazza/humanoid-bench.git
 cd humanoid-bench
 conda create -n humanoid_bench python=3.8
